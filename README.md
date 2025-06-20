@@ -1,10 +1,6 @@
 # Tribute to Dr. A.P.J. Abdul Kalam
 
-This is a simple and responsive tribute website dedicated to Dr. A.P.J. Abdul Kalam — the "Missile Man of India" and the 11th President of India. The project is built using only HTML and CSS and aims to honor his life, legacy, and contributions to science and education.
-
-## 🌟 Live Demo
-
-🔗 [View the Website](https://SARVESH-GARIBE.github.io/tribute-to-apj-abdul-kalam/)  
+This is a simple and responsive tribute website dedicated to Dr. A.P.J. Abdul Kalam — the "Missile Man of India" and the 11th President of India. The project is built using only HTML and CSS and aims to honor his life, legacy, and contributions to science and education. 
 
 ## 📁 Project Structure
 tribute-to-apj-abdul-kalam/
